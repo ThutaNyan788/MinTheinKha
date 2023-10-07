@@ -1,0 +1,25 @@
+.answer-container{
+    width: 700px;
+    height: 150px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.answer-title{
+    font-size: 15px;
+    margin: 10px 0;
+}
+
+.sec-back-btn{
+    text-decoration: none;
+    color: #fff;
+    background: #612106;
+    padding: 8px 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+}

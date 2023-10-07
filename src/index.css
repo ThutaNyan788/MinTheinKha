@@ -1,0 +1,32 @@
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+
+body{
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-family:sans-serif;
+}
+
+.container{
+  /* border: 1px solid #000; */
+  padding: 10px;
+}
+
+.logo-container{
+  text-align: center;
+}
+
+.logo-img{
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+}
+
+.swap-container{
+  text-align: center;
+}
