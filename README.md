@@ -7,6 +7,10 @@ npm install -g json-server
 ```
 json-server -w ./_data/db.json
 ```
+# Demo
+```
+https://mintheinkha.netlify.app/
+```
 
 # React + Vite
 
